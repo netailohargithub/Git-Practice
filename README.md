@@ -1,2 +1,2 @@
 # Repo-2
-This is the readme file for github
+This is the readme file for git
